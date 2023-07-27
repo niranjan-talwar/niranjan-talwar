@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-pBTUVQFFoqg6JU5SFAMGx0gdtWYG5ke/view?usp=drive_link)
 
-- ⚡ Fun fact **A one hundred percent humiliating story that always makes folks laugh**
+- ⚡ Fun fact **"A one hundred percent humiliating story that always makes folks laugh"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
