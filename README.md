@@ -1,13 +1,13 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">Hi 👋, I'm Niranjan Talwar</h1>
-<h3 align="center">Pre-final year Information Science and Engineering undergrad at NIE, Mysore.<br>I'm a passionate Developer but more importantly I'm coding enthusiast and technophile.</h3>
+<h3 align="center">Final year Information Science and Engineering undergrad at NIE, Mysore.<br>I'm a passionate Developer but more importantly I'm coding enthusiast and technophile.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjan-talwar&label=Profile%20views&color=0e75b6&style=flat" alt="niranjan-talwar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/niranjantalwar_" target="blank"><img src="https://img.shields.io/twitter/follow/niranjantalwar_?logo=twitter&style=for-the-badge" alt="niranjantalwar_" /></a> </p>
 
-- 🔭 I’m currently working on **DSA and Full Stack Development**
+- 🔭 I’m currently working on **DSA and Backend**
 
 - 🌱 I’m currently learning **React and Node.js**
 
