@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **niranjantalwar777@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-pBTUVQFFoqg6JU5SFAMGx0gdtWYG5ke/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1B3eGG2AZOhQNecw5FdUCtlSh5hu-P7EZ/view?usp=drive_link)
 
 - ⚡ Fun fact **"A one hundred percent humiliating story that always makes folks laugh"**
 
