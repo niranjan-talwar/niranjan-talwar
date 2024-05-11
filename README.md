@@ -17,14 +17,14 @@
 
 - 📫 How to reach me **niranjantalwar777@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1B3eGG2AZOhQNecw5FdUCtlSh5hu-P7EZ/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pmvtcX6BR_19jXUBDOLr63s4huGuZVyq/view?usp=drive_link)
 
 - ⚡ Fun fact **"A one hundred percent humiliating story that always makes folks laugh"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/niranjantalwar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niranjantalwar_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/niranjan-talwar-66a097227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niranjan-talwar-66a097227" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/esniranjan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niranjan-talwar-66a097227" height="30" width="40" /></a>
 <a href="https://instagram.com/niranjan_talwar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niranjan_talwar_" height="30" width="40" /></a>
 </p>
 
