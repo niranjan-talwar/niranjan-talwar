@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/niranjantalwar_" target="blank"><img src="https://img.shields.io/twitter/follow/niranjantalwar_?logo=twitter&style=for-the-badge" alt="niranjantalwar_" /></a> </p>
 
-- 🔭 I’m currently working on **DSA and Backend**
+- 🔭 I’m currently working as **SWE intern @NMDC Ltd**
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I’m currently learning **ReactJs and NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://niranjantalwar.netlify.app/](https://niranjantalwar.netlify.app/)
 
